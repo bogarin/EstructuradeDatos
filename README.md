@@ -1,0 +1,2 @@
+# EstructuradeDatos
+practicas para  loscompañeros
